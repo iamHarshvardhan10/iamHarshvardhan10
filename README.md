@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **coderharsh10@gmail.com**
 
-- ⚡ Fun fact **I Thinks I am WebMancer**
+- ⚡ Fun fact **I Think I am WebMancer**
 
 
 <h3 align="left">Connect with me:</h3>
