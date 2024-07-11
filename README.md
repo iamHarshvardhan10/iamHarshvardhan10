@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Bhosale</h1>
-<h3 align="center">A passionate FULL STACK DEVELOPER</h3>
+<h3 align="center"> I'm Mern Stack Developer</h3>
 
 <img align='right' alt='webMancer' width='400' src='https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.1.1395880969.1710115200&semt=ais'/>
 - 🌱 I’m currently learning **Master in Data Science and Artificial Intelligence**
