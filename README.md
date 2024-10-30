@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Bhosale</h1>
 <h3 align="center"> I'm Mern Stack Developer</h3>
 
-##💫 About Me:
+
+💫 About Me:
 <br>I'm Currently working as freelancer<br>I'm currently leaning AI & DS<br>Ask Me About MERN Stack Technology<br>Fun Fact I think I'm Web Mencer<br>
 
 
