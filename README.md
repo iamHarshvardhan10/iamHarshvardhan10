@@ -2,7 +2,7 @@
 <h3 align="center"> I'm Mern Stack Developer</h3>
 
 ##💫 About Me:
-I'm Currently working as freelancer<br>I'm currently leaning AI & DS<br>Ask Me About MERN Stack Technology<br>Fun Fact I think I'm Web Mencer<br>
+<br>I'm Currently working as freelancer<br>I'm currently leaning AI & DS<br>Ask Me About MERN Stack Technology<br>Fun Fact I think I'm Web Mencer<br>
 
 
 ## 🌐 Socials:
